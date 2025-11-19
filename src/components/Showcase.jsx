@@ -31,7 +31,8 @@ const Showcase = () => {
       <div className="media">
         <video src="/videos/game.mp4" loop muted autoPlay playsInline />
         <div className="mask">
-          <img src="/mask-logo.svg" />
+          <img src="/mask-logo.svg" alt="Mask logo overlay" />
+          <img src="/mask-logo.svg" alt="" />
         </div>
       </div>
 
@@ -45,7 +46,7 @@ const Showcase = () => {
                 <span className="text-white">
                   M4, the next generation of Apple silicon
                 </span>
-                . M4 powers
+                . M4 provides more power for scientists, engineers, software developers, and creative pros tackling intensive projects.
               </p>
               <p>
                 It drives Apple Intelligence on iPad Pro, so you can write,
@@ -53,7 +54,7 @@ const Showcase = () => {
                 unbelievably thin, light, and powerful.
               </p>
               <p>
-                A brand-new display engine breathtaking precision, color
+                A brand-new display engine delivers breathtaking precision, color
                 accuracy, and brightness. And a next-gen GPU with
                 hardware-accelerated ray tracing brings console-level graphics
                 to your fingertips.
