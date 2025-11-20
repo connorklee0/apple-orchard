@@ -1,4 +1,4 @@
-# Apple Orchard
+# Macbook Landing Page
 
 A modern e-commerce website inspired by Apple's iconic design aesthetic, showcasing premium tech products with immersive 3D visualizations and cinematic scroll animations.
 
